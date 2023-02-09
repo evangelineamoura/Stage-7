@@ -1,1 +1,73 @@
-/* Copy and paste your CSS from CodePen into here */
+/html {
+    font-size: 16px;
+  }
+  
+  body {
+    font-family: arial, monospace;
+    font-size: 1.1rem;
+    line-height: 1.5;
+    text-align: center;
+    color: rgb(193, 187, 179);
+    margin: 0   
+  }
+  
+  #title {
+    text-align: center;
+    
+  }
+  
+  p {
+    text-align: center;
+  }
+  
+  #tribute-link {
+    color: rgb(0, 0, 255);
+  }
+  
+  #tribute-link:visited {
+    color: rgb(0, 0, 128);
+  }
+  
+  
+  #main {
+    margin: 40px 20px;
+    padding: 50px;
+    border-radius: 10px; 
+    border-style: solid;
+    border-width: 10px;
+    border-color: rgb(59, 58, 60);
+  }
+  
+  #image {
+    max-width: 100%;
+    display: block;
+    height: auto;
+    margin: 0 auto;
+  }
+  
+  #img-div {
+    background: rgb(29, 31, 32);
+    padding: 20px;
+    margin: 0;
+  }
+  
+  #img-caption {
+    font-size: 15px;
+    text-align: center;
+  }
+  
+  #headline {
+    margin: 50px 0px;
+    text-align: center;
+  }
+  
+  ul {
+    max-width: 800px;
+    margin: 0 auto 50px auto;
+    line-height: 1.7;
+    text-align: justify;
+  }
+  
+  li {
+    margin: 15px;
+  }
